@@ -1,1 +1,3 @@
-print("Hello, Nat!")
+from django.contrib import admin
+
+# Register your models here.
